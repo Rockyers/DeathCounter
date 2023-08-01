@@ -1,0 +1,8 @@
+name: DeathCounter
+version: '${version}'
+main: me.rockyers.deathcounter.DeathCounter
+api-version: '1.20'
+authors: [Rockyers]
+description: A simple, easy to use, death counter plugin
+softdepend:
+  - PlaceholderAPI
